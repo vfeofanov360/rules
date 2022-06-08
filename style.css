@@ -23,4 +23,11 @@ a {
     color: white;
     border-radius: 50px;
     text-decoration: none;
+    text-align: center;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
